@@ -2,6 +2,8 @@
 #include <stdio.h>
 
 void print() {
-	printf("Hello PG2 World!");
+	printf("Hello GitHub World!");
+
+	printf("Hello New branch");
 }
 
