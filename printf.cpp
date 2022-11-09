@@ -3,6 +3,6 @@
 void print() {
 	printf("Hello GitHub World!\n");
 
-	printf("Clone2 changed\n");
+	printf("clone changed\n");
 
 }
